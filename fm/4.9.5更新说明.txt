@@ -1,3 +1,9 @@
+4.9.5
+電視版/手機版
+優化 proxy 方法
+licence key 支持 header
+
+
 4.9.4
 電視版/手機版
 優化 proxy 方法

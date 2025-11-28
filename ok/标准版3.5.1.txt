@@ -1,0 +1,7 @@
+本次更新日志：
+
+* [App]
+* Fix bug
+* Optimize header parse
+* Support drm licence header
+* Add drm forceKey param

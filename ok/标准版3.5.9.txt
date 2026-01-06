@@ -1,0 +1,8 @@
+本次更新日志：
+
+* [App]
+* 修复js初始化ext
+* 优化重播功能
+* 优化刷新功能
+* 新增播放控制api
+* playerContent支持artwork

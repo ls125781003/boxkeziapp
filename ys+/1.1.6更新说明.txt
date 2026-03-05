@@ -1,0 +1,21 @@
+📦 影视+v1.1.6 32/64手机版
+
+🐛 修复
+• 短剧「更多剧集」面板在亮色模式下看不清的问题
+
+✨ 新增
+• vod_player 字段：语义清晰，用于直接指定播放器（无视是否开启跳过详情），在其他壳子上也不会有任何影响
+  值：music / novel / pics / short，或中文值：听 / 书 / 画 / 短
+  指定vod_player之后,playerContent的url可以不再指定协议头,如vod_player: "pics"之后,url直接可以是 http://xx/img1.png&&http://xx/img2.png&&...
+• 短剧支持返回桌面自动小窗播放
+  前提：设置 → 播放设置 → 后台播放 → 画中画
+
+📖 小说阅读器
+• UI 全面优化，面板配色更精致
+• 新增段距设置
+• 优化 TTS 朗读操作逻辑
+• 更自由的微软语音服务
+
+🗣 TTS 脚本
+• 命令：`node /storage/emulated/0/VodPlus/Proxy/TTSServer.js`
+  启动后在小说朗读设置中配置服务地址即可使用微软语音

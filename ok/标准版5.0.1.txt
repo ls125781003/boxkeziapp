@@ -1,7 +1,0 @@
-本次更新日志：
-
-* [Exo]
-* 优化iso播放
-* 优化iso seek
-* 回看参数支持timestamp
-* iso的TrueHD支持直通

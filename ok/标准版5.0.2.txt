@@ -1,0 +1,14 @@
+本次更新日志：
+
+* [Exo]
+* 修复 iso vc1
+* 优化 iso ac3
+* 优化 iso 起播
+* 优化 mkv 起播
+* 支持 iso 章节选择
+* 优化 ffmpeg 软解性能
+
+* [App]
+* 优化 seek 手势检测
+* 支持 refresh category api
+* headers,proxy,rules,doh配置支持本地远程文件

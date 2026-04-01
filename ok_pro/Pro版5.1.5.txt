@@ -1,0 +1,9 @@
+本次更新日志：
+
+* [Exo]
+* 优化 iso 解析
+* 修复 dts 软解
+* 修复 truehd+atmos 直通
+
+* [App]
+* BUG修复

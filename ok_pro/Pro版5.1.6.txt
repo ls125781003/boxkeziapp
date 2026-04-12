@@ -1,0 +1,9 @@
+本次更新日志：
+
+* [Leanback]
+* 弹幕时间设置，弹幕按钮，上下键调整
+
+* [App]
+* 弹幕设置新增弹幕时间
+* playerContent新增adblock字段
+* BUG修复

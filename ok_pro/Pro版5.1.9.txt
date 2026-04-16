@@ -1,0 +1,11 @@
+本次更新日志：
+
+* [Leanback]
+* 修复桌面banner
+
+* [EXO]
+* 修复DTS-HD解码
+
+* [App]
+* 优化弹幕性能
+* BUG修复
